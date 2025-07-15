@@ -1,0 +1,17 @@
+# Byte-compiled / cache / logs
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Data/model files
+*.pkl
+*.joblib
+*.xlsx
+*.csv
+
+# OS-generated files
+.DS_Store
