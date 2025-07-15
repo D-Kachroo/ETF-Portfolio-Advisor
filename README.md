@@ -7,10 +7,10 @@ A full-stack ETF portfolio advisory and optimization tool powered by real-time f
 ## 🔧 App Features
 
 - Sector-based ETF selection with cleaned metadata
-- Adjusted price retrieval from Yahoo Finance and return calculation
+- Adjusted 'Close' price data from Yahoo Finance
 - Risk metrics: volatility, max drawdown, CVaR (95%), Sharpe ratio
 - Portfolio optimization via Efficient Frontier with L2 regularization
-- 30-day return prediction using ML algorithms (Random Forest) and global economic data
+- 30-day return prediction using ML algorithms (Random Forest)
 - Correlation heatmap of ETF returns (Pearson's)
 - FRED API integration: CPI, interest rate, unemployment
 - Exportable price data (Excel/CSV file)
