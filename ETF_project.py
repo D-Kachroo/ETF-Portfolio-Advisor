@@ -314,6 +314,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# To run this app on Streamlit, use the terminal command:
-# alias run_etf='cd "/Users/Visual Studio Code - Files/portfolio_optimizer_UWproject" && streamlit run ETF_project.py'
