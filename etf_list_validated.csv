@@ -1,0 +1,43 @@
+Ticker,Ticker.1,Name,Sector,Region
+VOO,VOO,Vanguard S&P 500 ETF,Equity,USA
+SPY,SPY,SPDR S&P 500 ETF Trust,Equity,USA
+QQQ,QQQ,Invesco QQQ Trust,Equity,USA
+VTI,VTI,Vanguard Total Stock Market ETF,Equity,USA
+DIA,DIA,SPDR Dow Jones Industrial Average ETF,Equity,USA
+IWM,IWM,iShares Russell 2000 ETF,Equity,USA
+IVV,IVV,iShares Core S&P 500 ETF,Equity,USA
+XLF,XLF,Financial Select Sector SPDR Fund,Financials,USA
+XLK,XLK,Technology Select Sector SPDR Fund,Technology,USA
+XLE,XLE,Energy Select Sector SPDR Fund,Energy,USA
+XLY,XLY,Consumer Discretionary Select Sector SPDR,Consumer,USA
+XLI,XLI,Industrial Select Sector SPDR Fund,Industrials,USA
+XLV,XLV,Health Care Select Sector SPDR Fund,Healthcare,USA
+XLP,XLP,Consumer Staples Select Sector SPDR Fund,Consumer,USA
+VNQ,VNQ,Vanguard Real Estate ETF,Real Estate,USA
+VHT,VHT,Vanguard Health Care ETF,Healthcare,USA
+VO,VO,Vanguard Mid-Cap ETF,Equity,USA
+VB,VB,Vanguard Small-Cap ETF,Equity,USA
+MTUM,MTUM,iShares MSCI USA Momentum Factor ETF,Factor,USA
+USMV,USMV,iShares MSCI USA Min Vol Factor ETF,Factor,USA
+ARKK,ARKK,ARK Innovation ETF,Technology,USA
+ARKG,ARKG,ARK Genomic Revolution ETF,Healthcare,USA
+ARKW,ARKW,ARK Next Generation Internet ETF,Technology,USA
+SCHD,SCHD,Schwab U.S. Dividend Equity ETF,Dividend,USA
+HDV,HDV,iShares Core High Dividend ETF,Dividend,USA
+BND,BND,Vanguard Total Bond Market ETF,Bonds,USA
+AGG,AGG,iShares Core U.S. Aggregate Bond ETF,Bonds,USA
+TLT,TLT,iShares 20+ Year Treasury Bond ETF,Bonds,USA
+SHY,SHY,iShares 1-3 Year Treasury Bond ETF,Bonds,USA
+IEF,IEF,iShares 7-10 Year Treasury Bond ETF,Bonds,USA
+TIP,TIP,iShares TIPS Bond ETF,Bonds,USA
+LQD,LQD,iShares iBoxx $ Investment Grade Corp Bond ETF,Bonds,USA
+HYG,HYG,iShares iBoxx $ High Yield Corp Bond ETF,Bonds,USA
+GLD,GLD,SPDR Gold Trust,Commodities,USA
+SLV,SLV,iShares Silver Trust,Commodities,USA
+DBC,DBC,Invesco DB Commodity Index Tracking Fund,Commodities,USA
+EFA,EFA,iShares MSCI EAFE ETF,International,USA
+EEM,EEM,iShares MSCI Emerging Markets ETF,International,USA
+VEA,VEA,Vanguard FTSE Developed Markets ETF,International,USA
+VWO,VWO,Vanguard FTSE Emerging Markets ETF,International,USA
+ACWI,ACWI,iShares MSCI ACWI ETF,Global,USA
+ZEO,ZEO.TO,BMO Equal Weight Oil & Gas ETF,Energy,Canada
