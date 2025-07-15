@@ -1,4 +1,4 @@
-# 📊 Full-Stack Quantitative ETF Investment Portfolio Robo-Advisor
+# 📊 Full-Stack Quantitative ETF Investment Portfolio Advisor
 
 **Creator:** David Kachroo (CFM @ University of Waterloo)
 
