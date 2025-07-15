@@ -6,17 +6,6 @@
 # It's designed to be user-friendly with text, visualizations, formulas, and metrics to help make informed investment decisions.
 # Uses Streamlit for the frontend interface, yfinance to fetch real-time financial data, and PyPortfolioOpt to optimize ETF portfolios.
 
-# App features include:
-# - Sector-based ETF selection with cleaned metadata
-# - Adjusted price retrieval from Yahoo Finance and return calculation
-# - Risk metrics: volatility, max drawdown, CVaR (95%), Sharpe ratio
-# - Portfolio optimization via Efficient Frontier with L2 regularization
-# - 30-day return prediction using ML/Random Forest and global economic data
-# - Correlation heatmap of ETF returns (Pearson's)
-# - FRED API integration: CPI, interest rate, unemployment
-# - Exportable price data (Excel/CSV file)
-# - Streamlit UI with error handling and input validation
-
 # --------------------------------------------------------------------------------------------------------------------------------------
 # Imports & Setup Tools/Libraries/Frameworks
 # --------------------------------------------------------------------------------------------------------------------------------------
@@ -314,6 +303,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# To run this app on Streamlit, use the terminal command:
-# alias run_etf='cd "/Users/Visual Studio Code - Files/portfolio_optimizer_UWproject" && streamlit run ETF_project.py'
