@@ -1,6 +1,6 @@
 # 📊 Full-Stack Quantitative ETF Investment Portfolio Robo-Advisor
 
-**Creator:** David Kachroo (CFM @University of Waterloo)
+**Creator:** David Kachroo (CFM @ University of Waterloo)
 
 A full-stack ETF portfolio advisory and optimization tool powered by real-time financial ETF data, machine learning, and global economic indicators. Built in Python on VS Code with a Streamlit frontend.
 
