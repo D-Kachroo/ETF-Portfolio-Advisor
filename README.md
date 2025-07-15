@@ -2,7 +2,7 @@
 
 **Author:** David Kachroo (CFM @ University of Waterloo)
 
-A full-stack ETF portfolio advisory and optimization tool powered by real-time financial data, machine learning, and economic indicators. Built in Python with a Streamlit frontend.
+A full-stack ETF portfolio advisory and optimization tool powered by real-time financial ETF data, machine learning, and global economic indicators. Built in Python on VS Code with a Streamlit frontend.
 
 ## 🔧 App Features
 
