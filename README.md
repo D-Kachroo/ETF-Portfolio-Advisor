@@ -11,7 +11,7 @@ A full-stack ETF portfolio advisory and optimization tool powered by real-time f
 - Risk metrics: volatility, max drawdown, CVaR (95%), Sharpe ratio
 - Portfolio optimization via Efficient Frontier with L2 regularization
 - 30-day return prediction using ML algorithms (Random Forest)
-- Correlation heatmap of ETF returns (Pearson's)
+- Correlation heatmap of ETF returns (Pearson's Coefficient)
 - FRED API integration: CPI, interest rate, unemployment
 - Exportable price data (Excel/CSV file)
 - Streamlit UI with error handling and input validation
