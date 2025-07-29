@@ -304,5 +304,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# To run this app on Streamlit, use the terminal command:
+# To run this app on Streamlit, use the following terminal command (VS Code):
 # alias run_etf='cd "/Users/Visual Studio Code - Files/ETF_portfolio_advisor" && streamlit run ETF_project.py'
