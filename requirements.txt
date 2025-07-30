@@ -7,5 +7,6 @@ openpyxl
 pandas
 scikit-learn
 seaborn
+Pylance
 streamlit
 yfinance
