@@ -20,7 +20,7 @@ A full-stack ETF portfolio advisory and optimization tool that is powered by rea
 
 `Python` · `Streamlit` · `yfinance` · `PyPortfolioOpt` · `pandas` · `FRED API` · `scikit-learn`
 
-## 🚀 Run Locally
+## 🚀 Streamlit App Link
 
 ```bash
-streamlit run ETF_project.py
+https://quant-etf-advisor.streamlit.app/
