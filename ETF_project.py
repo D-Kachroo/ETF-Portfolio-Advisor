@@ -34,6 +34,7 @@ from pypfopt.objective_functions import L2_reg
 # Federal Reserve Economic Data (FRED) Application Programming Interface (API)
 # --------------------------------------------------------------------------------------------------------------------------------------
 # Initializes a real-time connection to the FRED API, via a personal access key.
+# Example API key:
 FRED_API_KEY = "9be2185841963a50ccbf2a2edfb87591"
 fred = Fred(api_key=FRED_API_KEY)
 
