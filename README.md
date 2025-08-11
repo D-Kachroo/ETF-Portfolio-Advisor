@@ -18,7 +18,7 @@ A full-stack ETF portfolio advisory and optimization tool that is powered by rea
 
 ## ⚙️ Tech Stack
 
-`Python` · `Streamlit` · `yfinance` · `PyPortfolioOpt` · `pandas` · `FRED API` · `scikit-learn`
+`Python` · `pandas` · `NumPy` · `yfinance` · `FRED API` · `PyPortfolioOpt` · `scikit-learn` · `Random Forest (ML)` · `Matplotlib` · `Streamlit` · `Docker` · `Railway`
 
 ## 🚀 Streamlit App Link
 
