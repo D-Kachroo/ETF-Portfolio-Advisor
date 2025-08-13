@@ -1,6 +1,6 @@
 # 📊 Full-Stack Quant ETF Investment Portfolio Advisor
 
-**Developer:** David Kachroo (CFM @ University of Waterloo)
+**Developer:** David Kachroo (CFM @University of Waterloo)
 
 A full-stack ETF portfolio advisory and optimization tool that is powered by real-time Yahoo Finance data, AI, machine learning (ML), and global economic indicators. Developed in Python on VS Code with a Streamlit frontend.
 
