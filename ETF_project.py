@@ -1,6 +1,6 @@
 # Full-Stack Quantitative ETF Investment Portfolio ML-Advisor
-# By: David Kachroo (CFM @UWaterloo)
-# Built on VS Code for a Streamlit application
+# By: David Kachroo (CFM @ UWaterloo)
+# Built on VS Code as a Streamlit application
 # ======================================================================================================================================
 # Description: This Python script provides a comprehensive tool for ETF investment portfolio management & advisory.
 # It's designed to be user-friendly with text, visualizations, formulas, and metrics to help make informed investment decisions.
