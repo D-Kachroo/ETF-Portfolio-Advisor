@@ -274,7 +274,7 @@ def main():
 
         # Displays the risk metrics and investor profile classification.
         profile = show_risk_metrics(returns)
-        st.success(f"Investment Category (~Sharpe Ratio): **{profile}**")
+        st.success(f"Investment Category: **{profile}**")
 
         # Displays a correlation matrix (heatmap).
         show_correlation_heatmap(returns)
