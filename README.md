@@ -6,7 +6,7 @@ A full-stack ETF portfolio advisory and optimization tool that is powered by rea
 
 ## 🔧 App Features
 
-- Sector-based ETF selection with cleaned metadata
+- A multi-sector ETF selection bar with cleaned metadata
 - Adjusted 'Close' price data from Yahoo Finance
 - Risk metrics: volatility, max drawdown, CVaR (95%), Sharpe ratio
 - Portfolio optimization via Efficient Frontier with L2 regularization
