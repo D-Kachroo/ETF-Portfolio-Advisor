@@ -289,7 +289,7 @@ def main():
         # Forecasts next 30-day return using ML model (Random Forest).
         prediction = predict_returns(returns, macro_data)
         if prediction is not None:
-            st.metric("📈 Machine Learning (ML) Forecast Return (next 30d)", f"{prediction*100:.2f}%")
+            st.metric("📈 Machine Learning (ML) Forecasted Return (next 30d)", f"{prediction*100:.2f}%")
 
         # Optimizes user's ETF portfolio using the Efficient Frontier method.
         optimize_portfolio(price_data)
