@@ -8,11 +8,11 @@ A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization too
 
 - A multi-sector ETF selection bar with cleaned metadata
 - Adjusted 'Close' price data from Yahoo Finance
-- Risk metrics: volatility, max drawdown, CVaR (95%), Sharpe ratio
+- Risk metrics: volatility, maximum drawdown, CVaR (95%), Sharpe ratio
 - Portfolio optimization via Efficient Frontier with L2 regularization
 - 30-day return prediction using ML algorithms (Random Forest)
 - Correlation heatmap of ETF returns (Pearson's Coefficient)
-- FRED API integration: CPI, interest rate, unemployment
+- Integration of the FRED API for CPI, interest rates, and U.S. unemployment
 - Exportable price data (Excel/CSV file)
 - Streamlit UI with error handling and input validation
 
