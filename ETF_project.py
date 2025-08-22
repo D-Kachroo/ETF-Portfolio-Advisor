@@ -45,7 +45,7 @@ fred = Fred(api_key=FRED_API_KEY)
 etf_metadata = pd.read_csv("etf_list_validated.csv") # 4 columns: Ticker, Name, Sector, Region
 
 # --------------------------------------------------------------------------------------------------------------------------------------
-# Function: Retrieves Global Economic Data from FRED
+# Function: Retrieves Global Economic Indicators from FRED
 # --------------------------------------------------------------------------------------------------------------------------------------
 def get_macro_data():
     try:
