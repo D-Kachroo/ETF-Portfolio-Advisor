@@ -237,7 +237,7 @@ def show_correlation_heatmap(returns):
     st.pyplot(fig)
 
 # --------------------------------------------------------------------------------------------------------------------------------------
-# Function: Main Streamlit App Logic (User Interface) 
+# Function: Front-end Streamlit App (User Interface) 
 # --------------------------------------------------------------------------------------------------------------------------------------
 # It sets up the front-end page, retrieves ETF data, calculates returns, displays risk metrics, and optimizes the portfolio.
 # It includes a sidebar for users to input ETF tickers, displays historical prices, and showcases global economic indicators.
