@@ -1,4 +1,4 @@
-# Full-Stack Quantitative ETF Investment Portfolio Advisor
+# Full-Stack Quantitative Investment Portfolio Advisor for ETFs
 # By: David Kachroo (CFM @ UWaterloo)
 # Built on VS Code as a Streamlit web application
 # ======================================================================================================================================
