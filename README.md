@@ -2,7 +2,7 @@
 
 **Developer:** David Kachroo (CFM @ University of Waterloo)
 
-A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization tool that is powered by real-time Yahoo Finance data, AI, machine learning (ML), and various Python libraries. Developed on VS Code with a Streamlit frontend.
+A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization tool that is powered by real-time Yahoo Finance data, AI, machine learning (ML), and various Python libraries. Developed on VS Code (Mac) with a Streamlit frontend.
 
 ## 🔧 App Features
 
