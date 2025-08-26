@@ -6,7 +6,7 @@ A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization too
 
 ## 🔧 App Features
 
-- A multi-sector ETF selection bar with cleaned metadata
+- A multi-sector ETF selection bar with verified metadata
 - Adjusted 'Close' price data from Yahoo Finance
 - Risk metrics: volatility, maximum drawdown, CVaR (95%), Sharpe ratio
 - Portfolio optimization via Efficient Frontier with L2 regularization
