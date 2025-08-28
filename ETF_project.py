@@ -7,7 +7,7 @@
 # It uses Streamlit for the frontend interface, yfinance to retrieve real-time ticker data, and PyPortfolioOpt to optimize ETF portfolios.
 
 # --------------------------------------------------------------------------------------------------------------------------------------
-# Imports and Setup Tools/Libraries/Frameworks
+# Imports and Setup Tools + Libraries + Frameworks
 # --------------------------------------------------------------------------------------------------------------------------------------
 import os
 import io
