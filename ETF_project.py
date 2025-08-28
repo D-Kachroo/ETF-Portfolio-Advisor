@@ -69,7 +69,7 @@ def get_macro_data():
     }
 
 # --------------------------------------------------------------------------------------------------------------------------------------
-# Function: Loads ETF Data from Yahoo Finance (yfinance)
+# Function: Retrieves ETF Data from Yahoo Finance (yfinance)
 # --------------------------------------------------------------------------------------------------------------------------------------
 # It downloads the price data for the specified ETFs over a given time period and returns a DataFrame with the adjusted close prices.
 def get_etf_data(etfs, period="5y"):
