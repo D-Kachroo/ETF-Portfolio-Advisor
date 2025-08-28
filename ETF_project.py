@@ -39,7 +39,7 @@ FRED_API_KEY = "9be2185841963a50ccbf2a2edfb87591"
 fred = Fred(api_key=FRED_API_KEY)
 
 # --------------------------------------------------------------------------------------------------------------------------------------
-# Loads ETF Metadata from a Local CSV File (etf_list_validated.csv)
+# Loads Valid ETF Metadata from a Local CSV File (etf_list_validated.csv)
 # --------------------------------------------------------------------------------------------------------------------------------------
 # The valid metadata is used to populate the filter and selection options in the app's sidebar.
 etf_metadata = pd.read_csv("etf_list_validated.csv") # 4 columns: Ticker, Name, Sector, Region
