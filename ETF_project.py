@@ -4,7 +4,7 @@
 # ======================================================================================================================================
 # Overview: This Python script provides a comprehensive tool for ETF investment portfolio management & advisory.
 # It's designed to be user-friendly with text, visualizations, formulas, and metrics to help make informed investment decisions.
-# It uses Streamlit for the frontend interface, yfinance to retrieve real-time ticker data, and PyPortfolioOpt to optimize ETF portfolios.
+# It utilizes Streamlit for the frontend interface, yfinance to retrieve real-time ticker data, and PyPortfolioOpt to optimize ETF portfolios.
 
 # --------------------------------------------------------------------------------------------------------------------------------------
 # Imports and Setup Tools + Libraries + Frameworks
