@@ -76,7 +76,7 @@ def get_etf_data(etfs, period="5y"):
     if isinstance(etfs, str):
         etfs = [etfs]
 
-    # Normalizes period input (ensure 'max' is lowercase to comply with yfinance's text requirements)
+    # Normalizes period input (ensures 'max' is lowercase to comply with yfinance's text requirements)
     period = period.lower()
 
     # Downloads historical price data with daily frequency and adjustment for dividends/splits.
