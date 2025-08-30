@@ -1,5 +1,5 @@
 # Full-Stack Quantitative Investment Portfolio Advisor for ETFs
-# By: David Kachroo (CFM @UWaterloo)
+# By: David Kachroo (CFM @ UWaterloo)
 # Built on VS Code as a Streamlit web application
 # ======================================================================================================================================
 # Overview: This Python script provides a comprehensive tool for ETF investment portfolio management & advisory.
@@ -76,7 +76,7 @@ def get_etf_data(etfs, period="5y"):
     if isinstance(etfs, str):
         etfs = [etfs]
 
-    # Normalizes period input (ensure 'max' is lowercase to comply with yfinance)
+    # Normalizes period input (ensure 'max' is lowercase to comply with yfinance's text requirements)
     period = period.lower()
 
     # Downloads historical price data with daily frequency and adjustment for dividends/splits.
