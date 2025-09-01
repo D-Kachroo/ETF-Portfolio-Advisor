@@ -179,7 +179,7 @@ def optimize_portfolio(price_data):
         # Retrieves real-time ETF prices to convert weightings into shares.
         latest_prices = get_latest_prices(price_data)
 
-        # Allocates a fixed $10,000 budget using integer programming, to determine the ETF share quantities.
+        # Assigns a fixed $10,000 budget using integer programming to determine the ETF(s) share quantities.
         da = DiscreteAllocation(weights, latest_prices, total_portfolio_value=10000)
         allocation, leftover = da.lp_portfolio()
 
