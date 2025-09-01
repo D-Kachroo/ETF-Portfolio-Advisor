@@ -1,9 +1,9 @@
 # Full-Stack Quantitative Investment Portfolio Advisor for ETFs
 # By: David Kachroo (CFM @ UWaterloo)
-# Built on VS Code as a Streamlit web application
+# Developed on VS Code as a Streamlit web application
 # ======================================================================================================================================
 # Overview: This Python script provides a comprehensive tool for ETF investment portfolio management & advisory.
-# It is designed to be user-friendly with text, visualizations, formulas, and metrics to help make informed investment decisions.
+# It's designed to be user-friendly with text, visualizations, formulas, and metrics to help make informed investment decisions.
 # It employs Streamlit for the frontend interface, yfinance to retrieve real-time ticker data, and PyPortfolioOpt to optimize ETF portfolios.
 
 # --------------------------------------------------------------------------------------------------------------------------------------
