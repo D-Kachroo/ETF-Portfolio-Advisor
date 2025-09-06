@@ -23,7 +23,7 @@ from datetime import datetime
 from fredapi import Fred
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
-from sklearn.metrics  mean_squared_error
+from sklearn.metrics import mean_squared_error
 from pypfopt.efficient_frontier import EfficientFrontier
 from pypfopt.expected_returns import mean_historical_return
 from pypfopt.risk_models import CovarianceShrinkage
