@@ -12,13 +12,13 @@ A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization too
 - Portfolio optimization using Efficient Frontier with L2 regularization
 - 30-day return prediction using an ML algorithm (Random Forest)
 - Correlation heatmap that compares 2+ ETFs (Pearson's Coefficient)
-- Integrating the FRED API for CPI, interest rates, and unemployment rates (USA).
+- Integrating the FRED API for CPI, interest rates, and unemployment rates (USA)
 - Downloadable price data (Excel/CSV file)
-- Streamlit UI with error handling and input validation
+- Streamlit UI that handles errors and validates user inputs
 
 ## ⚙️ Tech Stack
 
-`Python` · `pandas` · `NumPy` · `yfinance` · `FRED API` · `PyPortfolioOpt` · `scikit-learn` · `Random Forest (ML)` · `Matplotlib` · `Streamlit` · `Docker` · `Railway`
+`Python` · `pandas` · `NumPy` · `yfinance` · `Quantlib' · `FRED API` · `PyPortfolioOpt` · `scikit-learn` · `Random Forest (ML)` · `Matplotlib` · `Streamlit` · `Anaconda` · `Docker` · `Railway`
 
 ## 🚀 Streamlit Link
 
