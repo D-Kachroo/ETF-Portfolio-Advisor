@@ -18,7 +18,7 @@ A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization too
 
 ## ⚙️ Tech Stack
 
-`Python` · `pandas` · `NumPy` · `yfinance` · `Quantlib' · `FRED API` · `PyPortfolioOpt` · `scikit-learn` · `Random Forest (ML)` · `Matplotlib` · `Streamlit` · `Anaconda` · `Docker` · `Railway`
+`Python` · `pandas` · `NumPy` · `yfinance` · `Quantlib` · `FRED API` · `PyPortfolioOpt` · `scikit-learn` · `Random Forest (ML)` · `Matplotlib` · `Streamlit` · `Anaconda` · `Docker` · `Railway`
 
 ## 🚀 Streamlit Link
 
