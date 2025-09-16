@@ -12,8 +12,8 @@ A full-stack ETF (Exchange-Traded Funds) portfolio advisory and optimization too
 - Portfolio optimization using Efficient Frontier with L2 regularization
 - 30-day return prediction using an ML algorithm (Random Forest)
 - Correlation heatmap that compares 2+ ETFs (Pearson's Coefficient)
-- Integrating the FRED API for CPI, interest rates, and U.S. unemployment
-- Exportable price data (Excel/CSV file)
+- Integrating the FRED API for CPI, interest rates, and unemployment rates (USA).
+- Downloadable price data (Excel/CSV file)
 - Streamlit UI with error handling and input validation
 
 ## ⚙️ Tech Stack
