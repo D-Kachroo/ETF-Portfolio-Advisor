@@ -250,7 +250,7 @@ def main():
         st.header("ETF Selection (Sidebar)")
         sector_choice = st.selectbox("Filter by Sector", options=etf_metadata['Sector'].unique())
         filtered = etf_metadata[etf_metadata['Sector'] == sector_choice]
-        selected_etfs = st.multiselect("Choose ETFs", options=filtered['Ticker'])
+        selected_etfs = st.multiselect("Choose your ETF(s)", options=filtered['Ticker'])
         time_horizon = st.selectbox("Select time period:", ["1y", "3y", "5y", "10y", "max"])
         st.caption("Recommendation: Use multi-sector ETFs for diversification.")
 
