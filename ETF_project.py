@@ -231,7 +231,7 @@ def predict_returns(returns, macro_data):
 def show_correlation_heatmap(returns):
     # High Value (+) = low diversification/more risk.
     # Low Value (-) = High diversification/less risk.
-    st.subheader("📌 Correlation Heatmap (0 = 👍 to 1 = 👎)")
+    st.subheader("📌 Correlation Heatmap (0 = 👍 to 1.00 = 👎)")
     fig, ax = plt.subplots()
     sns.heatmap(returns.corr(), annot=True, cmap="coolwarm", ax=ax)
     st.pyplot(fig)
