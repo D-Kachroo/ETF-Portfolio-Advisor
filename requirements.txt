@@ -1,6 +1,5 @@
-streamlit==1.19.0
-altair==4.2.2
-pyarrow==13.0.0
+streamlit>=1.30.0
+altair>=4.2.2
 
 PyPortfolioOpt
 fredapi
