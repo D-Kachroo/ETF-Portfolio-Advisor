@@ -1,5 +1,6 @@
 streamlit==1.19.0
 altair==4.2.2
+pyarrow==12.0.1
 
 PyPortfolioOpt
 fredapi
